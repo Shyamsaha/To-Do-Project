@@ -1,0 +1,47 @@
+.style
+{
+    display: flex;
+    margin-left: 47%;
+}
+.style1
+{
+    margin-left: 14px;
+}
+.card-body
+{
+    border: 1px solid black;
+}
+.card-body
+{
+    border: 1px solid black;
+}
+.card-header
+{
+    background-color: #fe6347;
+    border: 1px solid black;
+}
+.card-header h3
+{
+    font-weight: bold;
+}
+.btn-primary
+{
+   background-color: #dddddd!important;
+   border: 1px solid black;
+   color: #6c6c6c;
+   font-weight: bold;
+}
+.add-button
+{
+    border: 1px solid black;
+    color: #fe6347;
+    font-weight: bold;
+}
+.font-awesome
+{
+    color: #fe6347;
+}
+.action-button
+{
+    float: right;
+}
